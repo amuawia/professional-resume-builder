@@ -1,0 +1,17 @@
+{
+  "name": "resume-builder-backend",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "openai": "^3.0.0",
+    "stripe": "^8.193.0"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  }
+}

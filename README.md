@@ -1,1 +1,31 @@
-IyBQcm9mZXNzaW9uYWwgUmVzdW1lIEJ1aWxkZXIKCiMjIFByb2plY3QgT3ZlcnZpZXcKClRoaXMgaXMgYSBjb21wcmVoZW5zaXZlIHdlYiBhcHBsaWNhdGlvbiB0aGF0IGFsbG93cyB1c2VycyB0byBjcmVhdGUgcHJvZmVzc2lvbmFsIHJlc3VtZXMgd2l0aCBBSS1hc3Npc3RlZCB3cml0aW5nIGZlYXR1cmVzLgoKCiMjIEtleSBGZWF0dXJlcwoKLSBQcm9mZXNzaW9uYWwgUmVzdW1lIEJ1aWxkZXIgd2l0aCBjdXN0b21pemFibGUgdGVtcGxhdGVzCi0gQUkgSW50ZWdyYXRpb24gZm9yIHJlc3VtZSB3cml0aW5nIHN1Z2dlc3Rpb25zCi0gU3Vic2NyaXB0aW9uICYgUGF5bWVudCBtYW5hZ2VtZW50Ci0gVXNlciBEYXNoYm9hcmQgZm9yIGFjY291bnQgbWFuYWdlbWVudAoKCiMjIFRlY2hub2xvZ3kgU3RhY2sKCi0gRnJvbnRlbmQ6IFJlYWN0LmpzCi0gQmFja2VuZDogTm9kZS5qcwotIERhdGFiYXNlOiBQb3N0Z3JlU1FMCi0gQUkgSW50ZWdyYXRpb246IE9wZW5BSQotIFBheW1lbnQgR2F0ZXdheTogU3RyaXBlCgoKIyMgU2V0dXAgSW5zdHJ1Y3Rpb25zCgoxLiBDbG9uZSB0aGUgcmVwb3NpdG9yeQoyLiBJbnN0YWxsIGRlcGVuZGVuY2llcwozLiBTZXQgdXAgZW52aXJvbm1lbnQgdmFyaWFibGVzCjQuIFJ1biB0aGUgYXBwbGljYXRpb24KCgojIyBDb250cmlidXRpbmcKClBsZWFzZSByZWFkIENPTlRSSUJVVElORy5tZCBmb3IgZGV0YWlscyBvbiBvdXIgY29kZSBvZiBjb25kdWN0IGFuZCB0aGUgcHJvY2VzcyBmb3Igc3VibWl0dGluZyBwdWxsIHJlcXVlc3RzLg==
+# Professional Resume Builder
+
+## Project Overview
+
+A comprehensive web application that allows users to create professional resumes with AI-assisted writing features.
+
+## Key Features
+
+- Professional Resume Builder with customizable templates
+- AI Integration for resume writing suggestions
+- Subscription & Payment management
+- User Dashboard for account management
+
+## Technology Stack
+
+- Frontend: React.js
+- Backend: Node.js
+- Database: PostgreSQL
+- AI Integration: OpenAI
+- Payment Gateway: Stripe
+
+## Setup Instructions
+
+1. Clone the repository
+2. Install dependencies
+3. Set up environment variables
+4. Run the application
+
+## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
